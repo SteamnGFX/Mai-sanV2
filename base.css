@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! ClearVision v6.1.3 by the CV team */
+/*! ClearVision v1.1.0 by the CV team */
 /*! Powered by DiscordSelectors v0.2.7 */
 /* DEFAULT SETTINGS */
 :root {
@@ -274,7 +274,7 @@ textarea,
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v6.1.3";
+  content: "v1.0.0";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -1236,7 +1236,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v6.1.3";
+  content: "v1.0.0";
   left: 50%;
   text-align: left;
   opacity: 0;
