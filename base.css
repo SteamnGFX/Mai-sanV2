@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! ClearVision v1.1.0 by the CV team */
+/*! SteamnGFX v1.1.0 by the CV team */
 /*! Powered by DiscordSelectors v0.2.7 */
 /* DEFAULT SETTINGS */
 :root {
@@ -268,7 +268,7 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
+  content: "SteamnGFX";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
@@ -1230,7 +1230,7 @@ textarea,
   transition: all 0.5s ease-in-out;
 }
 .container-3baos1:before {
-  content: "ClearVision";
+  content: "SteamnGFX";
   right: 50%;
   text-align: right;
   transform: translateX(50%);
